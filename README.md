@@ -1,175 +1,133 @@
-# `>_ EDWARD CHRISTIAN IMANUEL TAMBUNAN`
+# Edward Christian Imanuel Tambunan
 
-<div align="center">
+\<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Edward+%F0%9F%91%8B;AI+%26+Machine+Learning+Engineer;Full-Stack+Developer;Building+Intelligent+Solutions+with+Code" alt="Typing SVG" />
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Edward%20Christian&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn](https://capsule-render.vercel.app/api?type=waving\&height=220\&color=0:0F2027,50:203A43,100:2C5364\&text=Edward%20Christian\&fontSize=48\&fontColor=FFFFFF\&fontAlignY=38\&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer\&descAlignY=58\&descSize=18\&animation=fadeIn)" />
 
-<br/>
+\<img src="[https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Applications;Turning+Ideas+into+Digital+Solutions](https://readme-typing-svg.demolab.com?font=Inter\&weight=500\&size=22\&duration=3000\&pause=1000\&color=58A6FF\&center=true\&vCenter=true\&width=650\&lines=Welcome+to+my+GitHub+Profile!;Artificial+Intelligence+%26+Machine+Learning;Building+Intelligent+Applications;Turning+Ideas+into+Digital+Solutions)" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-edwardchristi4n-00FF9C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/edwardchristi4n)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/edward-christian-imanuel-tambunan-392059251/)
-[![Profile Views](https://komarev.com/ghpvc/?username=edwardchristi4n&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS)](https://github.com/edwardchristi4n)
-
-</div>
-
-```bash
-┌──(edward㉿github)-[~/profile]
-└─$ whoami
-
-Name       : Edward Christian Imanuel Tambunan
-Role       : IT Undergraduate | AI Engineer
-Focus      : Artificial Intelligence & Machine Learning
-Development: Full-Stack Development
-Location   : Yogyakarta, Indonesia
-Status     : Learning, Building, and Exploring
-```
-
-## `01. ABOUT_ME`
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Edward Christian"
-        self.education = "Informatics Undergraduate"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Deep Learning",
-            "Full-Stack Development",
-            "Data Engineering"
-        ]
-
-    def current_mission(self):
-        return "Building intelligent and impactful solutions"
-
-    def motto(self):
-        return "Learn. Build. Experiment. Improve."
+\<br/>
 
 
-me = Developer()
-```
+\
 
-I'm an Informatics undergraduate passionate about building intelligent systems and practical software solutions.
 
-My interests revolve around Artificial Intelligence, Machine Learning, Deep Learning, and Full-Stack Development.
+\</div>
 
-I enjoy experimenting with data, developing predictive models, and transforming ideas into functional applications.
+---
 
-## `02. TECH_STACK`
+## 👨‍💻 About Me
 
-**Languages & Core Development**
+Hi! I'm **Edward Christian**, an Informatics undergraduate based in Yogyakarta, Indonesia.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+I'm passionate about developing intelligent systems and building practical software solutions. My primary interests are Artificial Intelligence, Machine Learning, Deep Learning, and Full-Stack Development.
 
-**AI / Machine Learning / Data Science**
+- 🎓 Informatics Undergraduate
+- 🤖 Interested in AI & Machine Learning Engineering
+- 💻 Exploring Full-Stack Development
+- 📊 Passionate about Data Science and Data Engineering
+- 🚀 Always learning, experimenting, and building new things
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-333333?style=flat-square)
+---
 
-**Web Development & Backend**
+## 🛠️ Tech Stack & Tools
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+\<div align="center">
 
-**Tools & Environment**
+### Programming Languages
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+\<img src="[https://skillicons.dev/icons?i=python,js,php,html,css,mysql](https://skillicons.dev/icons?i=python,js,php,html,css,mysql)" />
 
-## `03. FEATURED_PROJECTS`
+### AI / Machine Learning / Data Science
 
-| Project | Description | Tech |
-|---|---|---|
-| **TALKS** | Explainable ML for Social Vulnerability Classification in Indonesia using SHAP. | Python, ML, SHAP |
-| **UTS Deep Learning** | Traditional Indonesian food image classification using CNN and transfer learning experiments. | TensorFlow, CNN |
-| **NLP Project** | Indonesian text processing, NER annotation, TextRank, Word2Vec, and clustering. | Python, spaCy, NLP |
-| **Civic Trace** | Civic-oriented application for tracking and managing public information. | React, FastAPI, SQLite |
-| **Warung+** | Point of Sale application for traditional neighborhood stores. | Web Development |
-| **CineAtma** | Cinema-inspired web application with movie browsing and user profile features. | HTML, CSS, JavaScript |
+\<img src="[https://skillicons.dev/icons?i=tensorflow,sklearn,opencv](https://skillicons.dev/icons?i=tensorflow,sklearn,opencv)" />
 
-**Selected Repository**
+### Frameworks & Development
 
-[![UTS Deep Learning](https://github-readme-stats.vercel.app/api/pin/?username=edwardchristi4n&repo=UTS_DeepLearning&theme=chartreuse-dark&hide_border=true)](https://github.com/edwardchristi4n/UTS_DeepLearning)
+\<img src="[https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,sqlite](https://skillicons.dev/icons?i=react,nextjs,tailwind,fastapi,sqlite)" />
 
-[![NLP Project](https://github-readme-stats.vercel.app/api/pin/?username=edwardchristi4n&repo=NLP-Project&theme=chartreuse-dark&hide_border=true)](https://github.com/edwardchristi4n/NLP-Project)
+### Tools & Environment
 
-## `04. GITHUB_ANALYTICS`
+\<img src="[https://skillicons.dev/icons?i=git,github,vscode,linux,figma](https://skillicons.dev/icons?i=git,github,vscode,linux,figma)" />
 
-<div align="center">
+\</div>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=edwardchristi4n&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true" />
+---
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edwardchristi4n&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8" />
+## 🚀 Featured Projects
 
-<br/>
+\<div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=edwardchristi4n&theme=chartreuse-dark&hide_border=true" />
+\<a href="[https://github.com/edwardchristi4n/UTS_DeepLearning](https://github.com/edwardchristi4n/UTS_DeepLearning)"> \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=edwardchristi4n&repo=UTS_DeepLearning&theme=tokyonight&hide_border=true&border_radius=12](https://github-readme-stats.vercel.app/api/pin/?username=edwardchristi4n\&repo=UTS_DeepLearning\&theme=tokyonight\&hide_border=true\&border_radius=12)" /> \</a>
 
-</div>
+\<a href="[https://github.com/edwardchristi4n/NLP-Project](https://github.com/edwardchristi4n/NLP-Project)"> \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=edwardchristi4n&repo=NLP-Project&theme=tokyonight&hide_border=true&border_radius=12](https://github-readme-stats.vercel.app/api/pin/?username=edwardchristi4n\&repo=NLP-Project\&theme=tokyonight\&hide_border=true\&border_radius=12)" /> \</a>
 
-## `05. CONTRIBUTION_GRAPH`
+\</div>
 
-<div align="center">
+### Other Projects
 
-<img src="https://raw.githubusercontent.com/edwardchristi4n/edwardchristi4n/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+| Project         | Description                                                                                   |
+| :-------------- | :-------------------------------------------------------------------------------------------- |
+| **TALKS**       | Explainable Machine Learning for Social Vulnerability Classification in Indonesia using SHAP. |
+| **Warung+**     | Point of Sale solution for traditional neighborhood stores.                                   |
+| **Civic Trace** | Civic-oriented application built with React, FastAPI, and SQLite.                             |
+| **CineAtma**    | Cinema-inspired web application with movie browsing and user profile features.                |
 
-</div>
+---
 
-## `06. ACHIEVEMENTS`
+## 📊 GitHub Analytics
 
-- 🏆 **6th Place – TALKS:** Explainable Machine Learning for Social Vulnerability Classification in Indonesia.
-- 🥈 **2nd Place – I-Week POS Competition:** Warung+ Point of Sale solution for traditional retail businesses.
-- 💡 **AI & ML Exploration:** Hands-on experience with CNN, NLP, Explainable AI, and predictive modeling.
-- 💻 **Development Experience:** Frontend, Backend Development, and Network Engineering internship experience.
+\<div align="center">
 
-## `07. CURRENT_FOCUS`
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=edwardchristi4n&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=edwardchristi4n\&show_icons=true\&theme=tokyonight\&hide_border=true\&border_radius=12\&include_all_commits=true)" />
 
-```bash
-[+] Exploring Deep Learning architectures
-[+] Improving Machine Learning model evaluation
-[+] Building AI-powered applications
-[+] Exploring Data Engineering workflows
-[+] Developing scalable Full-Stack applications
-[ ] Turning experiments into production-ready systems
-```
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=edwardchristi4n&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8](https://github-readme-stats.vercel.app/api/top-langs/?username=edwardchristi4n\&layout=compact\&theme=tokyonight\&hide_border=true\&border_radius=12\&langs_count=8)" />
 
-## `08. CONNECT_WITH_ME`
+\<br/>\<br/>
 
-<div align="center">
+\<img width="65%" src="[https://streak-stats.demolab.com?user=edwardchristi4n&theme=tokyonight&hide_border=true&border_radius=12](https://streak-stats.demolab.com?user=edwardchristi4n\&theme=tokyonight\&hide_border=true\&border_radius=12)" />
 
-**Let's collaborate and build something meaningful!**
+\</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edwardchristi4n)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+---
 
-<br/>
+## 🏆 Achievements
 
-```bash
-┌───────────────────────────────────────────────┐
-│                                               │
-│   "Great things are built one commit at a     │
-│    time. Keep learning, keep building."       │
-│                                               │
-└───────────────────────────────────────────────┘
-```
+\<div align="center">
+
+\<img src="[https://img.shields.io/badge/6th%20Place-TALKS%20Competition-8A2BE2?style=for-the-badge](https://img.shields.io/badge/6th%20Place-TALKS%20Competition-8A2BE2?style=for-the-badge)" /> \<img src="[https://img.shields.io/badge/2nd%20Place-I--Week%20POS%20Competition-FFD700?style=for-the-badge](https://img.shields.io/badge/2nd%20Place-I--Week%20POS%20Competition-FFD700?style=for-the-badge)" />
+
+\</div>
+
+- **TALKS:** 6th Place – Explainable Machine Learning for Social Vulnerability Classification in Indonesia.
+- **I-Week:** 2nd Place – Warung+ Point of Sale Competition.
+
+---
+
+## 🐍 Contribution Activity
+
+\<div align="center">
+
+\<img src="[https://raw.githubusercontent.com/edwardchristi4n/edwardchristi4n/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/edwardchristi4n/edwardchristi4n/output/github-contribution-grid-snake-dark.svg)" width="100%" alt="Contribution Snake Animation" />
+
+\</div>
+
+---
+
+## 🌐 Let's Connect!
+
+\<div align="center">
+
+I'm always open to collaborating, discussing technology, and exploring new opportunities.
+
+\<a href="[https://github.com/edwardchristi4n](https://github.com/edwardchristi4n)"> \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" /> \</a>
+
+\<a href="[https://www.linkedin.com/](https://www.linkedin.com/)"> \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" /> \</a>
+
+\<br/>\<br/>
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:2C5364,50:203A43,100:0F2027\&height=120\&section=footer)" width="100%" />
 
 **Thanks for visiting my profile!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF9C&height=100&section=footer" width="100%" />
-
-</div>
+\</div>
